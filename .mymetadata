@@ -2,7 +2,7 @@
 <project-module
   type="WEB"
   name="BootstrapDemo"
-  id="myeclipse.1345034535326"
+  id="myeclipse.1345098345469"
   context-root="/boot"
   j2ee-spec="5.0"
   archive="BootstrapDemo.war">
