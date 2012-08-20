@@ -1,5 +1,4 @@
 
-
 Bootstrap from twitter 的示例代码
 
 每一个html页面包含最多一种类型的示例
@@ -17,7 +16,7 @@ http://wrongwaycn.github.com/bootstrap/docs/
 
 ----------
 
-一下是示例文件夹
+以下是示例文件夹
 
 
 WebRoot、
